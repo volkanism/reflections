@@ -1,0 +1,1 @@
+What you initialize a directory it creates hidden git files, but doesn't commit anything. You need to do the commit yourself.
