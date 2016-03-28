@@ -1,0 +1,11 @@
+Using a program to compare files rather than look through them yourself is much faster and accurate than wasting time comparing code line by line or tring to remember. Furthermore the error may be in a completely different place than where you think it is.
+
+Having all the old files can help me revert back to a previous state, or show me a project has progressed.
+
+The pros to having manual commits is that you can seperate the commits more logically and also add a descriptions. This will help you find the dif between commits and also logically track down errors.
+
+Git saves all the files in a respository because files affect and are related to each other. You cannot save only 1 file because it may not work if the other files are changed.
+
+Using git log and git diff I can easily se the difference I made between commits.
+
+Because I would be more confident I can quickly change back to a previous version I can make changes and try code out without much fear.
