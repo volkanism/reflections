@@ -1,3 +1,3 @@
 What you initialize a directory it creates hidden git files, but doesn't commit anything. You need to do the commit yourself.
 
-ok
+The staging area allows you to choose which files to commit in the next commit. So it is different thant he working directory which contains all your files. This allows you to seperate commits into single function commits.
