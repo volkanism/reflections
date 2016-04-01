@@ -1,3 +1,11 @@
 What you initialize a directory it creates hidden git files, but doesn't commit anything. You need to do the commit yourself.
 
 The staging area allows you to choose which files to commit in the next commit. So it is different thant he working directory which contains all your files. This allows you to seperate commits into single function commits.
+
+You may make a couple of changes, but if you put them in the staging area one at a time you can commit one logical change at a time.
+
+Make branches when there is a different mode or experimental feature that you may not want to add to the master.
+
+Diagrams help understand git structure because it can become confusinf rapidily with all these difference branches.
+
+Git can't always do automatic merging. This is a good thing because it's up to you to decide what to keep and what to discard. It does help identifying what has changed though, so it will aid you in the merge nonetheless.
